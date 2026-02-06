@@ -1,27 +1,49 @@
-<h1 align="center">Hey 👋 I'm Sidharth Sharma</h1>
-<h3 align="center">💻 Full Stack Developer | 🚀 Full Stack Learner | ☁️ Cloud Curious</h3>
+<h1 align="center">Hey 👋, I'm Sidharth Sharma</h1>
+<h3 align="center">Full Stack Developer | Full Stack Learner | TypeScript Enthusiast</h3>
 
 ---
 
-### 👨‍💻 About Me
-- 🔹 Frontend + Full Stack development
-- 🔹 JavaScript, TypeScript, React
-- 🔹 Learning backend & system design
-- 🔹 Building real-world projects
+## 🚀 About Me:
+- 🌱 Currently learning **MERN Stack**
+- 🤝 Looking to collaborate on **Frontend & Full Stack Projects**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React**
+- 📫 Reach me at: **sidharthss3337544@gmail.com**
+
 
 ---
 
-### 🛠️ Tech Stack
+## 🌐 Socials:
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,git,github,linux,vscode" />
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/sidharthhjg">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
 
-### 📫 Contact
-- 📧 Email: sidharthss3337544@gmail.com
-- 💼 LinkedIn:https://www.linkedin.com/in/sidharth-sharma-9686a8288/
+## 🧰 Tech Stack:
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,git,github,linux,vscode" />
+</p>
 
 ---
 
-⚡ *I believe in learning by building.*
+## 📊 GitHub Stats:
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=sidharthhjg&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthhjg&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies:
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=sidharthhjg&theme=onedark&margin-w=10"/>
+</p>
+
+---
+
+✨ *Code. Learn. Repeat.*
