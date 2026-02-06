@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Sidharth Sharma</h1>
-<h3 align="center">💻 Frontend Developer | 🚀 Full Stack Learner | ☁️ Cloud Curious</h3>
+<h3 align="center">💻 Full Stack Developer | 🚀 Full Stack Learner | ☁️ Cloud Curious</h3>
 
 ---
 
@@ -19,8 +19,8 @@
 ---
 
 ### 📫 Contact
-- 📧 Email: yourmail@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
+- 📧 Email: sidharthss3337544@gmail.com
+- 💼 LinkedIn:https://www.linkedin.com/in/sidharth-sharma-9686a8288/
 
 ---
 
