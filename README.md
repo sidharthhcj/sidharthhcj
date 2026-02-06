@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Sidharth Sharma</h1>
+<h3 align="center">💻 Frontend Developer | 🚀 Full Stack Learner | ☁️ Cloud Curious</h3>
 
-<!--
-**sidharthhcj/sidharthhcj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🔹 Frontend + Full Stack development
+- 🔹 JavaScript, TypeScript, React
+- 🔹 Learning backend & system design
+- 🔹 Building real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,git,github,linux,vscode" />
+</p>
+
+---
+
+### 📫 Contact
+- 📧 Email: yourmail@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile
+
+---
+
+⚡ *I believe in learning by building.*
