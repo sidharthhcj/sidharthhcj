@@ -1,42 +1,27 @@
-<h1 align="center">Hey 👋, I'm Sidharth Sharma</h1>
-<h3 align="center">Full Stack Developer | Full Stack Learner | TypeScript Enthusiast</h3>
+<h1 align="center">Hey 👋 I'm Sidharth Sharma</h1>
+<h3 align="center">💻 Frontend Developer | 🚀 Full Stack Learner | ☁️ Cloud Curious</h3>
 
 ---
 
-## 🚀 About Me:
-- 🌱 Currently learning **MERN Stack**
-- 🤝 Looking to collaborate on **Frontend & Full Stack Projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React**
-- 📫 Reach me at: **sidharthss3337544@gmail.com**
-
+### 👨‍💻 About Me
+- 🔹 Frontend + Full Stack development
+- 🔹 JavaScript, TypeScript, React
+- 🔹 Learning backend & system design
+- 🔹 Building real-world projects
 
 ---
 
-## 🌐 Socials:
+### 🛠️ Tech Stack
 <p>
-  <a href="https://www.linkedin.com/in/sidharth-sharma-9686a8288/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/sidharthhcj">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,git,github,linux,vscode" />
 </p>
 
 ---
 
-## 🧰 Tech Stack:
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,git,github,linux,vscode" />
-</p>
+### 📫 Contact
+- 📧 Email: sidharthss3337544@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sidharth-sharma-9686a8288/
 
 ---
 
-
-
----
-
-
-
----
-
-✨ *Code. Learn. Repeat.*
+⚡ *I believe in learning by building.*
